@@ -73,13 +73,12 @@ Chame o arquivo acima de main.tf
 
   ```terraform plan```
 
-  <img src="./Assets/Ponderada3.png"
+ <img src="./Assets/Ponderada3.png"></img>
 
 - Aplique as mudanças planejadas, usando esse comando:
 
  ```terraform apply```
 
- <img src="./Assets/Ponderada3.png"></img>
  <img src="./Assets/Ponderada4.png"></img>
 
  ## EC2 rodando na AWS:
