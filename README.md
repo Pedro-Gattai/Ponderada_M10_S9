@@ -6,10 +6,12 @@ Esse é um passo a passo de como fazer um deploy de uma EC2 usando do Terraform
 ## Configurar Ambiente de desenvolvimento
 
 - Instalar - AWS CLI:
+  
 Basta seguir o passo a passo desse site:
 https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
 - Instalar - Terraform:
+  
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 OBS: Para esse passo é nescessario você ter baixado o choco no seu computador 
 
